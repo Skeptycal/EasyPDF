@@ -15,7 +15,7 @@
   "author": "Hung Nguyen <viethungax@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^3.0.13"
+    "electron": "^7.2.4"
   },
   "dependencies": {
     "file-type": "^7.6.0",
